@@ -1,7 +1,5 @@
 # Portfolio
 My Data Science/AI Portfolio
-## Education: 
-- Bachelors, Data Science | University of California, Berkeley (_May 2025_)
 
 ## Work Experience
 **Data Science Intern @ Botrista (_August 2025 - Present_)**
