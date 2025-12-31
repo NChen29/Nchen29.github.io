@@ -12,7 +12,7 @@ Selected projects in data science, machine learning and NLP
 
 **Data Science Intern @ Ozaru (_February 2024 - May 2024_)**
 - Skydeck Batch 17 Investor Exhibition.
-  
+
 ---
 
 ## Projects
