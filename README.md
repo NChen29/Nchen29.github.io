@@ -1,6 +1,6 @@
 # Portfolio
-My Data Science/AI Portfolio
-
+Selected projects in data science, machine learning and NLP
+---
 ## Work Experience
 **Data Science Intern @ Botrista (_August 2025 - Present_)**
 - Data team for office of the CEO.
