@@ -73,7 +73,7 @@ Collaborated with researchers from the San Francisco Fed and UChicago on the "Se
 ![R Shiny](https://img.shields.io/badge/Shiny-007BC2?style=flat&logo=rstudio&logoColor=white)
 ![GIS](https://img.shields.io/badge/GIS-Geographic_Information_Systems-228B22?style=flat&logo=openstreetmap&logoColor=white)
 
-[View Project Repository](https://github.com/Nathan-Chen24/Broadband-R-Shiny) 
+[View Project Repository](https://github.com/Nathan-Chen24/Broadband-R-Shiny)<br> 
 [View Official Poster](https://cdss.berkeley.edu/project/seven-million-demand-elasticities)
 
 ---
