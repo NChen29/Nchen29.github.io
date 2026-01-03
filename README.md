@@ -36,8 +36,20 @@ Predicting customer satisfaction from text is a core challenge in e-commerce. In
 Collaborated with researchers from the San Francisco Fed and UChicago on the "Seven Million Demand Elasticities" (7MDE) project to investigate if broadband proliferation caused a decline in brick-and-mortar retail. Developed an interactive **R Shiny** dashboard to visualize over 7.5 million price elasticity estimates across 14,000 products. The analysis revealed no negative correlation between broadband usage and in-store consumer activity, challenging the retail apocalypse hypothesis.
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![R Shiny](https://img.shields.io/badge/Shiny-007bc2?style=flat&logo=rstudio&logoColor=white)
+![R Shiny](https://img.shields.io/badge/Shiny-007BC2?style=flat&logo=rstudio&logoColor=white)
 ![GIS](https://img.shields.io/badge/GIS-Geographic_Information_Systems-228B22?style=flat&logo=openstreetmap&logoColor=white)
 
-[View Project Repository](https://github.com/Nathan-Chen24/Broadband-R-Shiny) [View Official Poster](https://cdss.berkeley.edu/project/seven-million-demand-elasticities)
+**Project Visualizations:**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nathan-Chen24/Broadband-R-Shiny/main/img/7mde_figure_1.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/Nathan-Chen24/Broadband-R-Shiny/main/img/7mde_figure_2_3.png" width="45%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nathan-Chen24/Broadband-R-Shiny/main/img/7mde_web_app_design.png" width="90%" />
+</p>
+
+[View Project Repository](https://github.com/Nathan-Chen24/Broadband-R-Shiny) 
+[View Official Poster](https://cdss.berkeley.edu/project/seven-million-demand-elasticities)
+
+---
 
