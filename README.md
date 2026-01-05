@@ -25,12 +25,12 @@ Predicting customer satisfaction from text is a core challenge in e-commerce. In
 <table width="100%" style="border: none; background-color: transparent;">
   <tr style="border: none; background-color: transparent;">
     <td width="50%" align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/Nathan-Chen24/portfolio/main/assets/img/logistic%20regression%20roc.png" width="100%" alt="ROC Curve"/>
+      <img src="https://raw.githubusercontent.com/Nchen29/portfolio/main/assets/img/logistic%20regression%20roc.png" width="100%" alt="ROC Curve"/>
       <br>
       <b><small>Figure 1. Logistic Regression ROC Curve</small></b>
     </td>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/Nathan-Chen24/portfolio/main/assets/img/random%20forest%20bar.png" width="100%" alt="Feature Importance"/>
+      <img src="https://raw.githubusercontent.com/Nchen29/portfolio/main/assets/img/random%20forest%20bar.png" width="100%" alt="Feature Importance"/>
       <br>
       <b><small>Figure 2: Random Forest Most Important Features</small></b>
     </td>
@@ -38,7 +38,7 @@ Predicting customer satisfaction from text is a core challenge in e-commerce. In
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nathan-Chen24/portfolio/main/assets/img/model%20comparisons.png" width="85%" alt="Model Comparison Table"/>
+  <img src="https://raw.githubusercontent.com/Nchen29/portfolio/main/assets/img/model%20comparisons.png" width="85%" alt="Model Comparison Table"/>
   <br>
   <b><small>Figure 3: Model Comparison</small></b>
 </p>
@@ -49,7 +49,7 @@ Predicting customer satisfaction from text is a core challenge in e-commerce. In
 ![NLTK](https://img.shields.io/badge/NLTK-306998?style=flat&logo=python&logoColor=white)
 ![Ensemble Learning](https://img.shields.io/badge/Ensemble_Learning-FF6F00?style=flat)
 
-[View Notebook on GitHub](https://github.com/Nathan-Chen24/portfolio/blob/main/projects/amazon_sentiment/Ensemble_learning_Amazon_Reviews.ipynb)
+[View Notebook on GitHub](https://github.com/Nchen29/portfolio/blob/main/projects/amazon_sentiment/Ensemble_learning_Amazon_Reviews.ipynb)
 
 
 <hr style="border: 1px solid #eaecef;">
@@ -60,18 +60,18 @@ Collaborated with researchers from the San Francisco Fed and UChicago on the "Se
 
 **Project Visualizations:**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nathan-Chen24/Broadband-R-Shiny/main/img/7mde_figure_1.png" width="49%" />
-  <img src="https://raw.githubusercontent.com/Nathan-Chen24/Broadband-R-Shiny/main/img/7mde_figure_2_3.png" width="49%" />
+  <img src="https://raw.githubusercontent.com/Nchen29/Broadband-R-Shiny/main/img/7mde_figure_1.png" width="49%" />
+  <img src="https://raw.githubusercontent.com/Nchen29/Broadband-R-Shiny/main/img/7mde_figure_2_3.png" width="49%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nathan-Chen24/Broadband-R-Shiny/main/img/7mde_web_app_design.png" width="75%" />
+  <img src="https://raw.githubusercontent.com/Nchen29/Broadband-R-Shiny/main/img/7mde_web_app_design.png" width="75%" />
 </p>
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![R Shiny](https://img.shields.io/badge/Shiny-007BC2?style=flat&logo=rstudio&logoColor=white)
 ![GIS](https://img.shields.io/badge/GIS-Geographic_Information_Systems-228B22?style=flat&logo=openstreetmap&logoColor=white)
 
-[View Project Repository](https://github.com/Nathan-Chen24/Broadband-R-Shiny)<br> 
+[View Project Repository](https://github.com/Nchen29/Broadband-R-Shiny)<br> 
 [View Official Poster](https://cdss.berkeley.edu/project/seven-million-demand-elasticities)
 
 <hr style="border: 1px solid #eaecef;">
