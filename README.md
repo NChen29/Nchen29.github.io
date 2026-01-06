@@ -16,6 +16,27 @@ Selected projects in data science, machine learning and NLP
 <hr style="border: 1px solid #eaecef;">
 
 ## Projects
+
+<hr style="border: 1px solid #eaecef;">
+
+### LLM Persona Fine-Tuning: The "Wednesday Addams" Chatbot
+
+Developed a reusable fine-tuning pipeline to adapt open-source Large Language Models (LLMs) to specific personas or domain requirements. Tested with GPT and Llama. As a proof of concept, I engineered a chatbot with the distinct personality of Wednesday Addams (Netflix). Since no public dataset existed, I manually curated and formatted a custom dialogue dataset from the show's scripts. I utilized **QLoRA** (Quantized Low-Rank Adaptation) and **4-bit quantization** to fine-tune the model efficiently on my laptop with minimal computational cost.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![QLoRA](https://img.shields.io/badge/QLoRA-Quantized_Fine_Tuning-007ACC?style=flat)
+
+[View Notebook on Github](LINK_TO_NOTEBOOK)
+
+**Key Technical Achievements:**
+* **Custom Data Engineering:** Scraped and structured raw script data into instruction-response pairs for supervised fine-tuning.
+* **Efficient Training:** Implemented 4-bit quantization (`bitsandbytes`) and LoRA adapters (`PEFT`) to reduce memory usage by ~70% while maintaining performance.
+* **Scalable Workflow:** Created a modular pipeline applicable to any open-source model (e.g., Llama 2, Mistral) for domain-specific tasks.
+
+<hr style="border: 1px solid #eaecef;">
+
 ### Ensemble Machine Learning for Sentiment Analysis on Amazon Reviews
 
 Predicting customer satisfaction from text is a core challenge in e-commerce. In this project, I formulated star-rating prediction as a binary classification task, distinguishing 5-star reviews from lower ratings using Natural Language Processing (NLP). I created a custom ensemble ("Blending") model that stacked Logistic Regression, CART, Random Forest, and Gradient Boosting classifiers, optimizing their weights via OLS regression to achieve a 16% accuracy improvement over the baseline.
