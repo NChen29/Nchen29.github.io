@@ -1,5 +1,5 @@
 # Portfolio
-Selected projects in data science, machine learning and NLP
+4 selected projects in data science, machine learning, NLP and vibe coding
 
 <hr style="border: 1px solid #eaecef;">
 
@@ -34,7 +34,7 @@ Developed a reusable fine-tuning pipeline to adapt open-source Large Language Mo
 
 ### My Own Chess App
 
-Developed a fully functional chess application with claude code because the daily puzzle was limited on chess.com. Engineered the core game engine from scratch to enforce strict chess rules, including valid move generation, check/checkmate state detection, castling, and en passant. The frontend interface features interactive piece selection, legal move highlighting, a dynamic move history log, and a captured pieces tracker to provide a seamless user experience.
+Developed a fully functional chess application with claude code to solve unlimited puzzles. Engineered the core game engine from scratch to enforce strict chess rules, including valid move generation, check/checkmate state detection, castling, and en passant. The frontend interface features interactive piece selection, legal move highlighting, a dynamic move history log, and a captured pieces tracker to provide a seamless user experience.
 
 **Gameplay Interface Demo:**
 <p align="center">
