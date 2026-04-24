@@ -32,6 +32,36 @@ Developed a reusable fine-tuning pipeline to adapt open-source Large Language Mo
 
 <hr style="border: 1px solid #eaecef;">
 
+### My Own Chess App
+
+Developed a fully functional chess application with claude code because the daily puzzle was limited on chess.com. Engineered the core game engine from scratch to enforce strict chess rules, including valid move generation, check/checkmate state detection, castling, and en passant. The frontend interface features interactive piece selection, legal move highlighting, a dynamic move history log, and a captured pieces tracker to provide a seamless user experience.
+
+**Gameplay Interface:**
+<table width="100%" style="border: none; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://raw.githubusercontent.com/NChen29/Chess-App/main/img/image_1.png" width="100%" alt="Chess Gameplay Start"/>
+      <br>
+      <b><small>Figure 1. Standard Board and GUI</small></b>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://raw.githubusercontent.com/NChen29/Chess-App/main/img/image_2.png" width="100%" alt="Chess Move Highlighting"/>
+      <br>
+      <b><small>Figure 2. Move Highlighting & History Log</small></b>
+    </td>
+  </tr>
+</table>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-F7931E?style=flat&logo=python&logoColor=white)
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-007ACC?style=flat)
+
+[View Project Repository](https://github.com/NChen29/Chess-App)
+
+<hr style="border: 1px solid #eaecef;">
+
+<hr style="border: 1px solid #eaecef;">
+
 ### Ensemble Machine Learning for Sentiment Analysis on Amazon Reviews
 
 Predicting customer satisfaction from text is a core challenge in e-commerce. In this project, I formulated star-rating prediction as a binary classification task, distinguishing 5-star reviews from lower ratings using Natural Language Processing (NLP). I created a custom ensemble ("Blending") model that stacked Logistic Regression, CART, Random Forest, and Gradient Boosting classifiers, optimizing their weights via OLS regression to achieve a 16% accuracy improvement over the baseline.
